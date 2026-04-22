@@ -5,10 +5,10 @@
   "license": "MIT",
   "require": {
     "php": ">=8.3",
-    "hyperf/command": "~v3.1.64",
-    "hyperf/config": "~v3.1.63",
-    "hyperf/http-server": "~v3.1.65",
-    "hyperf/stringable": "~v3.1.0",
+    "hyperf/command": "^3.1",
+    "hyperf/config": "^3.1",
+    "hyperf/http-server": "^3.1",
+    "hyperf/stringable": "^3.1",
     "psr/container": "^1.1||^2.0",
     "symfony/console": "^7.3"
   },
